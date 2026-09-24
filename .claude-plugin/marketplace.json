@@ -1,0 +1,23 @@
+{
+  "name": "foldlab",
+  "owner": {
+    "name": "FoldLab",
+    "url": "https://github.com/FoldLab"
+  },
+  "metadata": {
+    "description": "FoldLab skills for Fold Spec and the Fold Viewer component.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "foldlab",
+      "source": "./plugins/foldlab",
+      "description": "Skills for Fold Spec authoring and Fold Viewer integration.",
+      "version": "1.0.0",
+      "author": {
+        "name": "FoldLab",
+        "url": "https://github.com/FoldLab"
+      }
+    }
+  ]
+}

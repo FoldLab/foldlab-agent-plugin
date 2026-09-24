@@ -1,0 +1,36 @@
+{
+  "name": "foldlab",
+  "version": "1.0.0",
+  "description": "Skills for Fold Spec authoring and Fold Viewer integration.",
+  "author": {
+    "name": "FoldLab",
+    "url": "https://github.com/FoldLab"
+  },
+  "homepage": "https://github.com/FoldLab/foldlab-agent-plugin",
+  "repository": "https://github.com/FoldLab/foldlab-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "origami",
+    "fold-spec",
+    "fold-viewer",
+    "react"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "FoldLab",
+    "shortDescription": "Fold Spec authoring and React viewer guidance",
+    "longDescription": "Two focused skills for understanding and authoring Fold Spec documents and integrating the composable Fold Viewer React package.",
+    "developerName": "FoldLab",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/FoldLab/foldlab-agent-plugin",
+    "brandColor": "#4B57A5",
+    "defaultPrompt": [
+      "Use $fold-spec to review a Fold Spec document.",
+      "Use $fold-viewer to integrate the React viewer."
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fold Spec"
+  short_description: "Author and review Fold Spec documents"
+  default_prompt: "Use $fold-spec to review a Fold Spec document."
+
+policy:
+  allow_implicit_invocation: true

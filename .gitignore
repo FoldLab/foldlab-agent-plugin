@@ -1,0 +1,36 @@
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python authoring/validation caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# JavaScript tooling caches and generated output
+node_modules/
+coverage/
+dist/
+build/
+.cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+.codex/config.toml
+*.pem
+*.key
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

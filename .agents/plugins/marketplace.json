@@ -1,0 +1,20 @@
+{
+  "name": "foldlab",
+  "interface": {
+    "displayName": "FoldLab Agent Plugins"
+  },
+  "plugins": [
+    {
+      "name": "foldlab",
+      "source": {
+        "source": "local",
+        "path": "./plugins/foldlab"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

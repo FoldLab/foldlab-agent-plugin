@@ -1,0 +1,11 @@
+{
+  "name": "foldlab",
+  "version": "1.0.0",
+  "description": "Skills for Fold Spec authoring and Fold Viewer integration.",
+  "author": {
+    "name": "FoldLab"
+  },
+  "homepage": "https://github.com/FoldLab/foldlab-agent-plugin",
+  "repository": "https://github.com/FoldLab/foldlab-agent-plugin",
+  "license": "MIT"
+}

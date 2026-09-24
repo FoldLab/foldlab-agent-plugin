@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fold Viewer"
+  short_description: "Integrate the Fold Viewer component"
+  default_prompt: "Use $fold-viewer to add the React viewer to this project."
+
+policy:
+  allow_implicit_invocation: true
